@@ -1,4 +1,4 @@
-# Wind Farm Site Selection — Denmark
+# Wind Farm Site Selection - Denmark
 
 An interactive multi-criteria evaluation (MCE) of wind farm suitability across Denmark, with sensitivity analysis using a coefficient of variation (CV) heatmap across 66 weight combinations.
 
