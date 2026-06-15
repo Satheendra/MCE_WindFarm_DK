@@ -40,3 +40,15 @@ A CV heatmap was computed across 66 weight combinations (each weight varied from
 - **Elevation / slope:** Digital Terrain Model (~30 m), resampled to 50 m
 
 ## Repository Structure
+docs/
+├── index.html # Interactive map (self-contained)
+├── cv_heatmap_colored.png # CV sensitivity heatmap overlay
+├── suit_s1.png # S1 suitability overlay
+├── suit_s2.png # S2 suitability overlay
+├── suit_s3.png # S3 suitability overlay
+└── suit_s4.png # S4 suitability overlay
+
+
+## Tools
+
+QGIS · Python · Leaflet.js
